@@ -1,5 +1,5 @@
 #title {
-    background-color:	#94e28f;
+    background-color:	#ffc5c3;
   }
   
   .container-fluid {
@@ -84,12 +84,12 @@
   
   .fas {
     font-size: 4rem;
-    color: #008653;
+    color: #ef8172;
     margin-bottom: 10px;
   }
   
   .fas:hover {
-    color: #217d1e;
+    color: #ffe2e1;
   }
   
   .fontf {
@@ -116,7 +116,7 @@
   #testimonials {
   
     text-align: center;
-    background-color:#50bb52;
+    background-color:#ef8172;
     color: white;
   }
   
@@ -133,7 +133,7 @@
   
   
   #press{
-    background-color:#50bb52;
+    background-color:#ef8172;
     text-align: center;
     padding-bottom: 3%;
   }
@@ -161,7 +161,7 @@
   #cta {
   text-align: center;
   padding: 9% 19%;
-  background-color:#94e28f;
+  background-color:#ffc5c3;
   }
   
   
@@ -196,4 +196,3 @@
     margin-left: 1%;
     padding-bottom:2%;
   }
-  
